@@ -1,2 +1,2 @@
 # Code
-Elctronics projects, arduino, raspberry, python, pyqt5, qml
+Electronics projects: Using arduino, raspberry, python, pyqt5, qml
